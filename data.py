@@ -1,5 +1,5 @@
-#  username = 'val_grekoff'
-#  password = 'gthltkrf9898'
+#  username = ''
+#  password = ''
 
 username = 'boombarashka5'
 password = 'godzilla0507'
