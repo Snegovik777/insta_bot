@@ -1,8 +1,8 @@
 #  username = ''
 #  password = ''
 
-username = 'boombarashka5'
-password = 'godzilla0507'
+username = ''
+password = ''
 promo1 = 'Кабаре2323'
 otvet11 = 'Спасибо за ваш интерес 💬 Мы дарим Вам купончик на 500р 😇💰 До 25 дкабря успейте им воспользоваться 🕛'
 otvet12 = 'А ещё для Вас маленький подарок 🎁🎁🎁'
