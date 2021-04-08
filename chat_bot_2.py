@@ -133,7 +133,7 @@ class InstagramBot():
     def auto_otvet(self):
 
         browser = self.browser
-        api_token = '1431354839:AAHc0xVFBva7VVZ0UzR39LlHTJY_UfyRazM'  # токен Телеграм-бота
+        api_token = '***************'  # токен Телеграм-бота
 
         # отключаем всплывающее окно №1 __ Включить уведомления
         if self.xpath_exists("/html/body/div[4]/div/div"):
