@@ -126,7 +126,7 @@ class InstagramBot():
     def auto_otvet(self):
 
         browser = self.browser
-        api_token = '1431354839:AAHc0xVFBva7VVZ0UzR39LlHTJY_UfyRazM'  # токен Телеграм-бота
+        api_token = ''  # токен Телеграм-бота
 
         # отключаем всплывающее окно №1 __ Включить уведомления
         if self.xpath_exists("/html/body/div[5]/div/div"):
@@ -393,5 +393,3 @@ while green:
     if not green:
         break
 
-
-# my_bot.send_direct_message(username22, "Привет. Как у тебя дела?", "C:\\untitled\\insta_bot\\img_2.jpg")
